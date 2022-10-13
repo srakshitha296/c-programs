@@ -5,34 +5,35 @@ void main()
 {
 int a,b,res;
 char op;
-printf("Enter a valid arithmetic expression");
+printf("Enter a valid arithmetic expression\n");
 scanf("%d%c%d",&a,&op,&b);
 switch(op)
 {
-case '+':printf("\nSum=%d",a+b);
+case '+':printf("Sum=%d\n",a+b);
          break;
-case '-':printf("\nDifference=%d",a-b);
+case '-':printf("Difference=%d\n",a-b);
          break;
-case '*':printf("\nProduct=%d",a*b);
+case '*':printf("Product=%d\n",a*b);
          break;
 case '/':if(b==0)
          {
-         printf("\nDivide by zero erroe!");
+         printf("Divide by zero error!\n");
          }
      else
          {
-         printf("\nQuotient=%d",a/b);
+         printf("Quotient=%d\n",a/b);
          }
          break;
 case '%':if(b==0)
          {
-        printf("\nDivide by zero error");
+        printf("Divide by zero error!\n");
          }
      else
         {
-        printf("\nRemainder=%d",a%b);
+        printf("Remainder=%d\n",a%b);
         }
         break;
+         default:printf("Invalid arithmetic expression!");
           
 }
 }
