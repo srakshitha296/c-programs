@@ -12,4 +12,6 @@ Hello world program.
 
 Program to display the largest of 3 numbers using ternary operator.
 
+Program to calculate the sum of 2 numbers
+
 
