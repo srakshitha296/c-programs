@@ -1,6 +1,11 @@
 # c-programs
 
+##### binary_search.c 
+Program to search an element in a sorted array.
+
 Binary to decimal converter.
+
+Program to display the largest among 4 numbers.
 
 Simulation of simple calculator.
 
