@@ -10,7 +10,7 @@ int main()
         printf("Matrix Multiplication not possible");
         exit(0);
     }
-    printf("Enter the elements of Matrix A");
+    printf("Enter the elements of Matrix A\n");
     for(i=0;i<m;i++)
     {
         for(j=0;j<n;j++)
@@ -18,7 +18,7 @@ int main()
      scanf("%d",&a[i][j]);
    }
     }
-    printf("Enter the elements of Matrix B");
+    printf("Enter the elements of Matrix B\n");
     for(i=0;i<p;i++)
     {
         for(j=0;j<q;j++)
@@ -46,6 +46,4 @@ int main()
     }
     printf("\n");
 }
-
-
 }
