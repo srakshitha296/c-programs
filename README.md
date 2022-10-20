@@ -12,6 +12,8 @@ Hello world program.
 
 Program to display the largest of 3 numbers using ternary operator.
 
+Matrix Multiplier.
+
 Program to display the largest among 4 numbers.
 
 Code to display pattern.
