@@ -19,3 +19,5 @@ Program to display the largest among 4 numbers.
 Code to display pattern.
 
 Program to calculate the sum of 2 numbers.
+
+Program to swap 2 numbers using pass by value method.
