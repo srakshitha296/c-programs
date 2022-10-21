@@ -24,4 +24,6 @@ Program to calculate the sum of 2 numbers.
 
 Program to calculate the sum of digits of a 3 digit number.
 
+Program to calculate the sum of digits of a 5 digit number.
+
 Program to swap 2 numbers using pass by value method.
