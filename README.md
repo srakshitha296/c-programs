@@ -14,11 +14,15 @@ Hello world program.
 
 Program to display the largest of 3 numbers using ternary operator.
 
+Program to calculate the number of illeterate people.
+
 Matrix Multiplier.
 
 Program to display the largest among 4 numbers.
 
 Code to display pattern.
+
+Program to calculate profit and loss.
 
 Program to calculate the sum of 2 numbers.
 
