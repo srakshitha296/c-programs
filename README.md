@@ -24,6 +24,12 @@ Code to display pattern.
 
 Program to calculate profit and loss.
 
+Program to find the largest of 2 numbers.
+
+Program to calculate the gross salary.
+
+Program to swap 2 strings.
+
 Program to calculate the sum of 2 numbers.
 
 Program to calculate the sum of digits of a 3 digit number.
