@@ -4,6 +4,8 @@ Program to search an element in a sorted array.
 
 Binary to decimal converter.
 
+Program to sort N numbers using bubble sort.
+
 Simulation of simple calculator.
 
 Program to calculate the number of each denomination to be given to the consumer by the cashier.
