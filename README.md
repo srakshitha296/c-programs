@@ -1,5 +1,7 @@
 # c-programs
 
+Program to calculate the average of n numbers.
+
 Program to search an element in a sorted array.
 
 Binary to decimal converter.
