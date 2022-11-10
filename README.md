@@ -45,3 +45,5 @@ Program to calculate the sum of digits of a 3 digit number.
 Program to calculate the sum of digits of a 5 digit number.
 
 Program to swap 2 numbers using pass by value method.
+
+Program to chech whether entered string has unique character in it or not.
