@@ -12,6 +12,8 @@ Simulation of simple calculator.
 
 Program to calculate the number of each denomination to be given to the consumer by the cashier.
 
+Program to Check whether a given character is a digit or not
+
 Program to display the cube of entered number.
 
 Program to display whether a given number is even or odd.
