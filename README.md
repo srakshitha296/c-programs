@@ -34,6 +34,8 @@ Program to display the largest among 4 numbers.
 
 Code to display pattern.
 
+Program to display the perimeter of a rectangle.
+
 Program to calculate profit and loss.
 
 Program to find the largest of 2 numbers.
