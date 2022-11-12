@@ -38,6 +38,8 @@ Program to display the perimeter of a rectangle.
 
 Program to calculate profit and loss.
 
+Program to find largest of 2 numbers.
+
 Program to find the largest of 2 numbers.
 
 Program to calculate the gross salary.
