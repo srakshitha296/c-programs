@@ -1,5 +1,7 @@
 # c-programs
 
+Program to reverse an array.
+
 Program to calculate the average of n numbers.
 
 Program to search an element in a sorted array.
