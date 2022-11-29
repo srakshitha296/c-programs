@@ -1,59 +1,59 @@
-# c-programs
+<h1> c-programs</h1>
+<ul>
+  <li>Program to reverse an array.</li>
 
-Program to reverse an array.
+ <li>Program to calculate the average of n numbers.</li>
 
-Program to calculate the average of n numbers.
+ <li>Program to search an element in a sorted array.</li>
 
-Program to search an element in a sorted array.
+ <li>Binary to decimal converter.</li>
 
-Binary to decimal converter.
+ <li>Program to sort N numbers using bubble sort.</li>
 
-Program to sort N numbers using bubble sort.
+ <li>Simulation of simple calculator.</li>
 
-Simulation of simple calculator.
+ <li>Program to calculate the number of each denomination to be given to the consumer by the cashier.</li>
 
-Program to calculate the number of each denomination to be given to the consumer by the cashier.
+  <li>Program to Check whether a given character is a digit or not</li>
 
-Program to Check whether a given character is a digit or not
+  <li>Program to display the cube of entered number.</li>
 
-Program to display the cube of entered number.
+  <li>Program to display whether a given number is even or odd.</li>
 
-Program to display whether a given number is even or odd.
+  <li>Program to display fibonacci series.</li>
 
-Program to display fibonacci series.
+  <li>Hello world program.</li>
 
-Hello world program.
+  <li>Program to display the largest of 3 numbers using ternary operator.</li>
 
-Program to display the largest of 3 numbers using ternary operator.
+  <li>Program to calculate the number of illeterate people.</li>
 
-Program to calculate the number of illeterate people.
+  <li>Matrix Addition.</li>
 
-Matrix Addition.
+  <li>Matrix Multiplier.</li>
 
-Matrix Multiplier.
+  <li>Program to display the largest among 4 numbers.</li>
 
-Program to display the largest among 4 numbers.
+  <li>Code to display pattern.</li>
 
-Code to display pattern.
+  <li>Program to display the perimeter of a rectangle.</li>
 
-Program to display the perimeter of a rectangle.
+  <li>Program to calculate profit and loss.</li>
 
-Program to calculate profit and loss.
+  <li>Program to find the largest of 2 numbers.</li>
 
-Program to find the largest of 2 numbers.
+  <li>Program to calculate the gross salary.</li>
 
-Program to calculate the gross salary.
+  <li>Program to calculate sinx using taylors series.</li>
 
-Program to calculate sinx using taylors series.
+  <li>Program to swap 2 strings.</li>
 
-Program to swap 2 strings.
+  <li>Program to calculate the sum of 2 numbers.</li>
 
-Program to calculate the sum of 2 numbers.
+  <li>Program to calculate the sum of digits of a 3 digit number.</li>
 
-Program to calculate the sum of digits of a 3 digit number.
+  <li>Program to calculate the sum of digits of a 5 digit number.</li>
 
-Program to calculate the sum of digits of a 5 digit number.
+  <li>Program to swap 2 numbers using pass by value method.</li>
 
-Program to swap 2 numbers using pass by value method.
-
-Program to chech whether entered string has unique character in it or not.
+  <li>Program to chech whether entered string has unique character in it or not.</li></ul>
