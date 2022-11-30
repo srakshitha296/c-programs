@@ -1,16 +1,20 @@
+<!DOCTYPE>
+<html>
+<head></head>
+<body>
 <h1> c-programs</h1>
 <ul>
-  <li>Program to reverse an array.</li>
+  <li><b><i>arrayReverse:</i> </b>Program to reverse an array.</li>
 
- <li>Program to calculate the average of n numbers.</li>
+ <li><b><i>average.c:</i> </b> Program to calculate the average of n numbers.</li>
 
- <li>Program to search an element in a sorted array.</li>
+ <li><b><i></i> </b>Program to search an element in a sorted array.</li>
 
- <li>Binary to decimal converter.</li>
+ <li><b><i></i> </b>Binary to decimal converter.</li>
 
- <li>Program to sort N numbers using bubble sort.</li>
+ <li><b><i></i> </b>Program to sort N numbers using bubble sort.</li>
 
- <li>Simulation of simple calculator.</li>
+ <li><b><i></i> </b>Simulation of simple calculator.</li>
 
  <li>Program to calculate the number of each denomination to be given to the consumer by the cashier.</li>
 
@@ -57,3 +61,5 @@
   <li>Program to swap 2 numbers using pass by value method.</li>
 
   <li>Program to chech whether entered string has unique character in it or not.</li></ul>
+  </body>
+  </html>
