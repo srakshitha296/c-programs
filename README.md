@@ -8,9 +8,9 @@
 
  <li><b><i>average.c:</i> </b> Program to calculate the average of n numbers.</li>
 
- <li><b><i></i> </b>Program to search an element in a sorted array.</li>
+ <li><b><i>binary_search:</i> </b>Program to search an element in a sorted array.</li>
 
- <li><b><i></i> </b>Binary to decimal converter.</li>
+ <li><b><i>binary_to_decimal_converter:</i></b>Binary to decimal converter.</li>
 
  <li><b><i></i> </b>Program to sort N numbers using bubble sort.</li>
 
