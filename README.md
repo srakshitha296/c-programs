@@ -16,9 +16,9 @@
 
  <li><b><i>calculator.c : </i></b>Simulation of simple calculator.</li>
 
- <li>Program to calculate the number of each denomination to be given to the consumer by the cashier.</li>
+ <li><b><i>cashier.c</i></b>Program to calculate the number of each denomination to be given to the consumer by the cashier.</li>
 
-  <li>Program to Check whether a given character is a digit or not</li>
+  <li><b><i>check.c</i></b>Program to Check whether a given character is a digit or not</li>
 
   <li>Program to display the cube of entered number.</li>
 
