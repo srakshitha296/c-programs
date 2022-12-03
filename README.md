@@ -16,13 +16,13 @@
 
  <li><b><i>calculator.c : </i></b>Simulation of simple calculator.</li>
 
- <li><b><i>cashier.c</i></b>Program to calculate the number of each denomination to be given to the consumer by the cashier.</li>
+ <li><b><i>cashier.c : </i></b>Program to calculate the number of each denomination to be given to the consumer by the cashier.</li>
 
-  <li><b><i>check.c</i></b>Program to Check whether a given character is a digit or not</li>
+  <li><b><i>check.c : </i></b>Program to Check whether a given character is a digit or not</li>
 
-  <li>Program to display the cube of entered number.</li>
+  <li><b><i>cube.c : </i></b>Program to display the cube of entered number.</li>
 
-  <li>Program to display whether a given number is even or odd.</li>
+  <li><b><i>even_or_odd.c : </i></b>Program to display whether a given number is even or odd.</li>
 
   <li>Program to display fibonacci series.</li>
 
