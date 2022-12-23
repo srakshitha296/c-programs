@@ -24,7 +24,7 @@
 
   <li><b><i>even_or_odd.c : </i></b>Program to display whether a given number is even or odd.</li>
 
-  <li><b><i>fibbonacci.c</i></b>Program to display fibonacci series.</li>
+  <li><b><i>fibbonacci.c : </i></b>Program to display fibonacci series.</li>
 
   <li><b><i>helloworld.c</i></b>Hello world program.</li>
 
@@ -32,9 +32,9 @@
 
   <li>Program to calculate the number of illeterate people.</li>
 
-  <li><b><i>matrix_addition.c</i></b>Matrix Addition.</li>
+  <li><b><i>matrix_addition.c : </i></b>Matrix Addition.</li>
 
-  <li><b><i>matrix_multiplication.c</i></b>Matrix Multiplier.</li>
+  <li><b><i>matrix_multiplication.c :</i></b>Matrix Multiplier.</li>
 
   <li>Program to display the largest among 4 numbers.</li>
 
