@@ -24,7 +24,7 @@
 
   <li><b><i>even_or_odd.c : </i></b>Program to display whether a given number is even or odd.</li>
 
-  <li>Program to display fibonacci series.</li>
+  <li><b><i>fibbonacci.c</i></b>Program to display fibonacci series.</li>
 
   <li>Hello world program.</li>
 
