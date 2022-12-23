@@ -32,9 +32,9 @@
 
   <li>Program to calculate the number of illeterate people.</li>
 
-  <li>Matrix Addition.</li>
+  <li><b><i>matrix_addition.c</i></b>Matrix Addition.</li>
 
-  <li>Matrix Multiplier.</li>
+  <li><b><i>matrix_multiplication.c</i></b>Matrix Multiplier.</li>
 
   <li>Program to display the largest among 4 numbers.</li>
 
