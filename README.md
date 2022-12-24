@@ -26,9 +26,9 @@
 
   <li><b><i>fibbonacci.c : </i></b>Program to display fibonacci series.</li>
 
-  <li><b><i>helloworld.c</i></b>Hello world program.</li>
+  <li><b><i>helloworld.c : </i></b>Hello world program.</li>
 
-  <li>Program to display the largest of 3 numbers using ternary operator.</li>
+  <li><b><i>largest_of_3_numbers.c : </i></b>Program to display the largest of 3 numbers using ternary operator.</li>
 
   <li>Program to calculate the number of illeterate people.</li>
 
