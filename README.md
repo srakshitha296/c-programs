@@ -38,7 +38,7 @@
 
   <li>Program to display the largest among 4 numbers.</li>
 
-  <li>Code to display pattern.</li>
+  <li><b><i>pattern.c : </i></b>Code to display pattern.</li>
 
   <li>Program to display the perimeter of a rectangle.</li>
 
