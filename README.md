@@ -50,7 +50,7 @@
 
   <li>Program to calculate sinx using taylors series.</li>
 
-  <li>Program to swap 2 strings.</li>
+  <li><b><i>swap.c : </i></b>Program to swap 2 strings.</li>
 
   <li>Program to calculate the sum of 2 numbers.</li>
 
