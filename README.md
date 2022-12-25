@@ -30,7 +30,7 @@
 
   <li><b><i>largest_of_3_numbers.c : </i></b>Program to display the largest of 3 numbers using ternary operator.</li>
 
-  <li>Program to calculate the number of illeterate people.</li>
+  <li><b><i>literacyrate.c : </i></b>Program to calculate the number of illeterate people.</li>
 
   <li><b><i>matrix_addition.c : </i></b>Matrix Addition.</li>
 
