@@ -36,7 +36,7 @@
 
   <li><b><i>matrix_multiplication.c :</i></b>Matrix Multiplier.</li>
 
-  <li>Program to display the largest among 4 numbers.</li>
+  <li><b><i>maxof4.c</i></b>Program to display the largest among 4 numbers.</li>
 
   <li><b><i>pattern.c : </i></b>Code to display pattern.</li>
 
