@@ -36,11 +36,11 @@
 
   <li><b><i>matrix_multiplication.c :</i></b>Matrix Multiplier.</li>
 
-  <li><b><i>maxof4.c</i></b>Program to display the largest among 4 numbers.</li>
+  <li><b><i>maxof4.c : </i></b>Program to display the largest among 4 numbers.</li>
 
   <li><b><i>pattern.c : </i></b>Code to display pattern.</li>
 
-  <li><b><i>peri.rectangle.c</b></i>Program to display the perimeter of a rectangle.</li>
+  <li><b><i>peri.rectangle.c : </b></i>Program to display the perimeter of a rectangle.</li>
 
   <li>Program to calculate profit and loss.</li>
 
