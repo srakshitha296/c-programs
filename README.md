@@ -48,7 +48,7 @@
 
   <li>Program to calculate the gross salary.</li>
 
-  <li>Program to calculate sinx using taylors series.</li>
+  <li><b><i>sinx.c : </i></b>Program to calculate sinx using taylors series.</li>
 
   <li><b><i>swap.c : </i></b>Program to swap 2 strings.</li>
 
