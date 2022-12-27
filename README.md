@@ -44,9 +44,9 @@
 
   <li><b><i>profitorloss.c : </i></b>Program to calculate profit and loss.</li>
 
-  <li>b><i>largest_of_2_numbers.c : </b></i><Program to find the largest of 2 numbers.</li>
+  <li>b><i>largest_of_2_numbers.c : </b></i>Program to find the largest of 2 numbers.</li>
 
-  <li>Program to calculate the gross salary.</li>
+  <li><b><i>salary.c : </i></b>Program to calculate the gross salary.</li>
 
   <li><b><i>sinx.c : </i></b>Program to calculate sinx using taylors series.</li>
 
