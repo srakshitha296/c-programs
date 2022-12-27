@@ -42,7 +42,7 @@
 
   <li><b><i>peri.rectangle.c : </b></i>Program to display the perimeter of a rectangle.</li>
 
-  <li>Program to calculate profit and loss.</li>
+  <li><b><i>profitorloss.c : </i></b>Program to calculate profit and loss.</li>
 
   <li>Program to find the largest of 2 numbers.</li>
 
