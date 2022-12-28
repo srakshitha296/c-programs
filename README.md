@@ -52,7 +52,7 @@
 
   <li><b><i>stringswap.c : </i></b>Program to swap 2 strings.</li>
 
-  <li>Program to calculate the sum of 2 numbers.</li>
+  <li><b><i>sum.c</b></i>Program to calculate the sum of 2 numbers.</li>
 
   <li>Program to calculate the sum of digits of a 3 digit number.</li>
 
