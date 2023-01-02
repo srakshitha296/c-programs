@@ -60,6 +60,6 @@
 
   <li><b>swap.c : </b></i>Program to swap 2 numbers using pass by value method.</li>
 
-  <li>Program to chech whether entered string has unique character in it or not.</li></ul>
+  <li><b>uniquechar.c : </i></b>Program to check whether entered string has unique character in it or not.</li></ul>
   </body>
   </html>
