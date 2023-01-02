@@ -58,8 +58,8 @@
 
   <li><b><i>sumof5.c : </i></b>Program to calculate the sum of digits of a 5 digit number.</li>
 
-  <li><b>swap.c : </b></i>Program to swap 2 numbers using pass by value method.</li>
+  <li><b><b>swap.c : </b></i>Program to swap 2 numbers using pass by value method.</li>
 
-  <li><b>uniquechar.c : </i></b>Program to check whether entered string has unique character in it or not.</li></ul>
+  <li><b><i>uniquechar.c : </i></b>Program to check whether entered string has unique character in it or not.</li></ul>
   </body>
   </html>
