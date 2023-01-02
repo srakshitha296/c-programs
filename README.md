@@ -56,7 +56,7 @@
 
   <li><b><i>sumof3.c : </i></b>Program to calculate the sum of digits of a 3 digit number.</li>
 
-  <li><b><i>sumof5.c : Program to calculate the sum of digits of a 5 digit number.</li>
+  <li><b><i>sumof5.c : </i></b>Program to calculate the sum of digits of a 5 digit number.</li>
 
   <li>Program to swap 2 numbers using pass by value method.</li>
 
