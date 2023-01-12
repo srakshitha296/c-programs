@@ -24,42 +24,42 @@
 
   <li><b><i>even_or_odd.c : </i></b>Program to display whether a given number is even or odd.</li>
 
-  <li>Program to display fibonacci series.</li>
+  <li><b><i>fibbonacci.c : </i></b>Program to display fibonacci series.</li>
 
-  <li>Hello world program.</li>
+  <li><b><i>helloworld.c : </i></b>Hello world program.</li>
 
-  <li>Program to display the largest of 3 numbers using ternary operator.</li>
+  <li><b><i>largest_of_3_numbers.c : </i></b>Program to display the largest of 3 numbers using ternary operator.</li>
 
-  <li>Program to calculate the number of illeterate people.</li>
+  <li><b><i>literacyrate.c : </i></b>Program to calculate the number of illeterate people.</li>
 
-  <li>Matrix Addition.</li>
+  <li><b><i>matrix_addition.c : </i></b>Matrix Addition.</li>
 
-  <li>Matrix Multiplier.</li>
+  <li><b><i>matrix_multiplication.c :</i></b>Matrix Multiplier.</li>
 
-  <li>Program to display the largest among 4 numbers.</li>
+  <li><b><i>maxof4.c : </i></b>Program to display the largest among 4 numbers.</li>
 
-  <li>Code to display pattern.</li>
+  <li><b><i>pattern.c : </i></b>Code to display pattern.</li>
 
-  <li>Program to display the perimeter of a rectangle.</li>
+  <li><b><i>peri.rectangle.c : </b></i>Program to display the perimeter of a rectangle.</li>
 
-  <li>Program to calculate profit and loss.</li>
+  <li><b><i>profitorloss.c : </i></b>Program to calculate profit and loss.</li>
 
-  <li>Program to find the largest of 2 numbers.</li>
+  <li><b><i>largest_of_2_numbers.c : </b></i>Program to find the largest of 2 numbers.</li>
 
-  <li>Program to calculate the gross salary.</li>
+  <li><b><i>salary.c : </i></b>Program to calculate the gross salary.</li>
 
-  <li>Program to calculate sinx using taylors series.</li>
+  <li><b><i>sinx.c : </i></b>Program to calculate sinx using taylors series.</li>
 
-  <li>Program to swap 2 strings.</li>
+  <li><b><i>stringswap.c : </i></b>Program to swap 2 strings.</li>
 
-  <li>Program to calculate the sum of 2 numbers.</li>
+  <li><b><i>sum.c : </b></i>Program to calculate the sum of 2 numbers.</li>
 
-  <li>Program to calculate the sum of digits of a 3 digit number.</li>
+  <li><b><i>sumof3.c : </i></b>Program to calculate the sum of digits of a 3 digit number.</li>
 
-  <li>Program to calculate the sum of digits of a 5 digit number.</li>
+  <li><b><i>sumof5.c : </i></b>Program to calculate the sum of digits of a 5 digit number.</li>
 
-  <li>Program to swap 2 numbers using pass by value method.</li>
+  <li><b><b>swap.c : </b></i>Program to swap 2 numbers using pass by value method.</li>
 
-  <li>Program to chech whether entered string has unique character in it or not.</li></ul>
+  <li><b><i>uniquechar.c : </i></b>Program to check whether entered string has unique character in it or not.</li></ul>
   </body>
   </html>
