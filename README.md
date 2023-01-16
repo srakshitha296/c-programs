@@ -4,6 +4,9 @@
 <body>
 <h1> c-programs</h1>
 <ul>
+  <li><b><i>pattern: </i></b>This folder contains some code to display pattern.
+  The file also contains the snapshot of the output</li>
+  
   <li><b><i>arrayReverse : </i> </b>Program to reverse an array.</li>
 
  <li><b><i>average.c : </i> </b> Program to calculate the average of n numbers.</li>
@@ -37,8 +40,6 @@
   <li><b><i>matrix_multiplication.c :</i></b>Matrix Multiplier.</li>
 
   <li><b><i>maxof4.c : </i></b>Program to display the largest among 4 numbers.</li>
-
-  <li><b><i>pattern: </i></b>This folder contains some code to display pattern.</li>
 
   <li><b><i>peri.rectangle.c : </b></i>Program to display the perimeter of a rectangle.</li>
 
