@@ -5,7 +5,7 @@
 <h1> c-programs</h1>
 <ul>
   <li><b><i>pattern: </i></b>This folder contains some code to display pattern.
-  The file also contains the snapshot of the output</li>
+  The file also contains the snapshot of the output.</li>
   
   <li><b><i>arrayReverse : </i> </b>Program to reverse an array.</li>
 
@@ -21,7 +21,7 @@
 
  <li><b><i>cashier.c : </i></b>Program to calculate the number of each denomination to be given to the consumer by the cashier.</li>
 
-  <li><b><i>check.c : </i></b>Program to Check whether a given character is a digit or not</li>
+  <li><b><i>check.c : </i></b>Program to Check whether a given character is a digit or not.</li>
 
   <li><b><i>cube.c : </i></b>Program to display the cube of entered number.</li>
 
